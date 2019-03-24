@@ -1,0 +1,36 @@
+body{
+	margin: 0;
+	background-color: #2F3045;
+	font-family: 'Baloo Chettan', cursive;
+	
+}
+
+#container{
+	width: 100%;
+	height: 100%;
+}
+
+img{
+	width: 100%;
+}
+
+.overlay{
+	position: absolute;
+	color: #fff;
+	margin: 3em;
+	width: 65%;
+	text-shadow: 2px 2px 2px rgba(150, 150, 150, 1);
+}
+
+h1.over{
+
+	font-size: 5vw;
+	font-weight: 300;
+	margin-bottom: 0;
+	color: #3e5d6b;
+}
+p.over {
+	color: #fff;
+	font-size: 3vw;
+	margin-top: 0;
+}
